@@ -1,0 +1,26 @@
+EquipmentID,Name,Department,PurchaseDate,Cost,Status
+E001,MRI Scanner,Neurology,2019-07-22,23726,Operational
+E002,ECG Monitor,Orthopedics,2021-02-06,30854,Operational
+E003,Ventilator,Neurology,2022-07-27,33614,Under Maintenance
+E004,Ventilator,Orthopedics,2018-07-17,99795,Operational
+E005,MRI Scanner,Cardiology,2023-05-03,73347,Under Maintenance
+E006,X-Ray Machine,Neurology,2018-03-30,75432,Out of Service
+E007,ECG Monitor,Pediatrics,2020-05-18,44707,Operational
+E008,Ventilator,Oncology,2021-10-23,90881,Under Maintenance
+E009,MRI Scanner,Neurology,2018-04-26,70763,Operational
+E010,ECG Monitor,Oncology,2019-10-04,14714,Operational
+E011,X-Ray Machine,Cardiology,2023-11-04,50249,Operational
+E012,ECG Monitor,Orthopedics,2021-01-30,97691,Operational
+E013,Ventilator,Cardiology,2020-07-10,65541,Out of Service
+E014,ECG Monitor,Oncology,2018-11-12,84426,Under Maintenance
+E015,X-Ray Machine,Neurology,2022-08-22,37096,Under Maintenance
+E016,MRI Scanner,Orthopedics,2021-10-25,99888,Under Maintenance
+E017,ECG Monitor,Pediatrics,2020-03-02,36986,Operational
+E018,MRI Scanner,Pediatrics,2018-07-20,66380,Under Maintenance
+E019,Ventilator,Cardiology,2019-10-13,27768,Operational
+E020,ECG Monitor,Oncology,2022-06-09,43733,Out of Service
+E021,Ventilator,Oncology,2021-11-03,28399,Out of Service
+E022,Ventilator,Orthopedics,2022-12-14,65958,Operational
+E023,X-Ray Machine,Neurology,2022-05-17,49489,Under Maintenance
+E024,Infusion Pump,Pediatrics,2023-03-27,94848,Out of Service
+E025,Ventilator,Cardiology,2018-11-05,12749,Out of Service
